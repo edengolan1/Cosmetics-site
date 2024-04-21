@@ -59,7 +59,7 @@ const food: [JSX.Element, number, number][] = [
 
 export default function Treatments() {
     return (
-        <div className='div-treatments'>
+        <div className='div-treatments' id='div-treatments'>
           <h2 className='my-treatments'>הטיפולים שלי</h2>
           <div className='types-of-treatments'>
             <div className='treatments'>

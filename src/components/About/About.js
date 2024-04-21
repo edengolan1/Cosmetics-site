@@ -3,7 +3,7 @@ import './About.css';
 
 function About() {
     return (
-        <div className='about'>
+        <div className='about' id='about'>
             <h2 className='about-me'>..קצת עליי</h2>
             <p>,אני קוסמטיקאית 8 שנים, בעלת ניסיון רב בטיפולי פנים</p>
             <p>.אני מטפלת באקנה ובצלקות ויודעת להתאים לכל אחד בדיוק את החומרים הנחוצים לו לטיפול</p>
