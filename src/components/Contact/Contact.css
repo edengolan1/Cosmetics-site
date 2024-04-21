@@ -103,7 +103,6 @@ textarea {
         padding: 0;
         border-radius: 20px;
         font-size: 16px;
-        background-color: whitesmoke;
         cursor: pointer;
         animation: bounce1 1s;
     }
