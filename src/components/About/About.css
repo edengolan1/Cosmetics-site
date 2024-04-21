@@ -1,0 +1,16 @@
+.about {
+    text-align: center;
+    color:rgb(230, 194, 147);
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.about-me {
+    display: inline;
+    border-bottom: 2px solid rgb(230, 194, 147);;
+    padding: 0.4rem;
+    margin-bottom: 2rem;
+    animation: bounce 1s;
+}
+.about>p {
+    padding: 3px;
+}
