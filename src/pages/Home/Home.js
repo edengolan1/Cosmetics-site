@@ -5,6 +5,7 @@ import About from '../../components/About/About';
 import { Images } from '../../components/ImagesBackground/Images';
 import Treatments from '../../components/Treatments/Treatments';
 import Contact from '../../components/Contact/Contact';
+import Footer from '../../components/Footer/Footer';
 
 function Home() {
     return (
@@ -14,6 +15,7 @@ function Home() {
             <About/>
             <Treatments/>
             <Contact/>
+            <Footer/>
         </div>
     );
 }
