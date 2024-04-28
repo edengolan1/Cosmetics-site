@@ -65,7 +65,10 @@ body {
   }
   @media screen and (max-width: 768px) {
     img {
-      height: 27rem;
+      height: 19rem;
+    }
+    .container {
+      height: 19rem;
     }
   }
   

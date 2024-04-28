@@ -3,17 +3,16 @@
     height: 31rem;
     text-align: center;
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     border-top: 1px solid lightgray;
 }
 .social-contact {
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-right: 22px;
+    margin-top: 4px;
 }
 .social-contact>div {
     margin: 11px;

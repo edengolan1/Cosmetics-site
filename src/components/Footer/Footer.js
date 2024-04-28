@@ -12,7 +12,7 @@ function Footer() {
                 </span>
             </div>
             <div>
-                <p className='eden'>פותח ע"י עדן גולן</p>
+                <p className='eden'>Develop By Eden Golan.</p>
             </div>
         </div>
     );

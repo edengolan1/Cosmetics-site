@@ -3,6 +3,10 @@
     color:rgb(230, 194, 147);
     margin-top: 2rem;
     margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 .about-me {
     display: inline;
@@ -11,6 +15,14 @@
     margin-bottom: 2rem;
     animation: bounce 1s;
 }
-.about>p {
-    padding: 3px;
+.about>div>span {
+    display: block;
+    line-height: 28px;
+}
+@media screen and (max-width: 768px) {
+    .about>div {
+        margin: 0px;
+        width: 90%;
+        font-size: 19px;
+    }
 }
